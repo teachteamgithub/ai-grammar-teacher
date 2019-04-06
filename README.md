@@ -13,3 +13,8 @@ Optional for later
 
 Testing
 * [Tutorial](http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018) about Node + Mocha + Chai
+
+
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
